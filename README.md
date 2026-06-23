@@ -1,14 +1,16 @@
 # 🔢 Matrix Operations Tool using Python & NumPy
 
-A Python-based Matrix Operations Tool that performs fundamental matrix calculations using NumPy. This project demonstrates mathematical computing, matrix manipulation, and numerical analysis through an interactive command-line application.
+A Python-based Matrix Operations Tool that performs essential matrix calculations using NumPy. This project demonstrates matrix manipulation, numerical computation, and linear algebra concepts through an interactive command-line application.
 
 ---
 
 ## 🚀 Project Overview
 
-Matrix operations are widely used in Data Science, Machine Learning, Computer Graphics, Engineering, and Scientific Computing.
+Matrix operations play a vital role in Machine Learning, Data Science, Artificial Intelligence, Computer Graphics, and Scientific Computing.
 
-This project provides an easy-to-use tool for performing common matrix operations such as:
+This project allows users to perform various matrix operations efficiently using Python and NumPy.
+
+### Features
 
 * Matrix Addition
 * Matrix Subtraction
@@ -16,17 +18,13 @@ This project provides an easy-to-use tool for performing common matrix operation
 * Matrix Transpose
 * Matrix Determinant Calculation
 
-The project is implemented using Python and NumPy to ensure efficient matrix computations.
-
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose                                   |
-| ---------- | ----------------------------------------- |
-| Python     | Core Programming Language                 |
-| NumPy      | Matrix Computation & Numerical Operations |
-| VS Code    | Development Environment                   |
+* Python
+* NumPy
+* VS Code
 
 ---
 
@@ -36,7 +34,7 @@ The project is implemented using Python and NumPy to ensure efficient matrix com
 Matrix-Operations-Python/
 │
 ├── screenshots/
-│   ├── Matrix Operations Tool (NumPy) -Code.png
+│   ├── matrix_tool_code.png
 │   ├── Addition.png
 │   ├── Subtraction.png
 │   ├── Multiplication.png
@@ -51,31 +49,13 @@ Matrix-Operations-Python/
 
 ---
 
-## ✨ Features
-
-✅ Matrix Addition
-
-✅ Matrix Subtraction
-
-✅ Matrix Multiplication
-
-✅ Matrix Transpose
-
-✅ Determinant Calculation
-
-✅ Fast Computation using NumPy
-
-✅ User-Friendly Command-Line Interface
-
----
-
 ## 💻 Source Code
 
 ### Matrix Operations Tool Implementation
 
-![Source Code](screenshots/Matrix%20Operations%20Tool%20%28NumPy%29%20-Code.png)
+![Source Code](screenshots/matrix_tool_code.png)
 
-This implementation utilizes NumPy arrays and built-in matrix functions for efficient calculations.
+The application is implemented using NumPy arrays and matrix functions to perform efficient mathematical computations.
 
 ---
 
@@ -85,7 +65,7 @@ This implementation utilizes NumPy arrays and built-in matrix functions for effi
 
 ![Addition](screenshots/Addition.png)
 
-**Result:** Successfully performs addition of two matrices of the same dimensions.
+**Result:** Successfully performs addition between two matrices of equal dimensions.
 
 ---
 
@@ -101,7 +81,7 @@ This implementation utilizes NumPy arrays and built-in matrix functions for effi
 
 ![Multiplication](screenshots/Multiplication.png)
 
-**Result:** Performs matrix multiplication following standard mathematical rules.
+**Result:** Performs matrix multiplication according to standard mathematical rules.
 
 ---
 
@@ -109,7 +89,7 @@ This implementation utilizes NumPy arrays and built-in matrix functions for effi
 
 ![Transpose](screenshots/Transpose.png)
 
-**Result:** Converts matrix rows into columns and columns into rows.
+**Result:** Converts rows into columns and columns into rows.
 
 ---
 
@@ -117,24 +97,24 @@ This implementation utilizes NumPy arrays and built-in matrix functions for effi
 
 ![Determinant](screenshots/Determinant.png)
 
-**Result:** Computes the determinant of a square matrix using NumPy functions.
+**Result:** Computes the determinant of a square matrix using NumPy's built-in functions.
 
 ---
 
 ## 🎯 Learning Outcomes
 
-Through this project, the following concepts were explored:
+This project helped develop practical knowledge of:
 
 * Matrix Mathematics
-* NumPy Array Operations
-* Python Programming
-* Mathematical Computing
 * Linear Algebra Fundamentals
+* NumPy Arrays
+* Numerical Computing
+* Python Programming
 * Scientific Computing
 
 ---
 
-## ▶️ How to Run
+## ▶️ Installation & Usage
 
 ```bash
 git clone https://github.com/charanyadavkandhi/Matrix-Operations-Python.git
@@ -150,9 +130,9 @@ python matrix_tool.py
 
 ## 📈 Applications
 
-* Data Science
 * Machine Learning
 * Artificial Intelligence
+* Data Science
 * Computer Graphics
 * Engineering Simulations
 * Scientific Research
@@ -161,10 +141,10 @@ python matrix_tool.py
 
 ## 🔮 Future Enhancements
 
-* Graphical User Interface (GUI)
 * Matrix Inverse Calculation
-* Eigenvalues & Eigenvectors
-* Matrix Rank Computation
+* Eigenvalue & Eigenvector Computation
+* Matrix Rank Calculation
+* Graphical User Interface (GUI)
 * Web-Based Matrix Calculator
 
 ---
